@@ -1,0 +1,655 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ca",
+				"ResetCache"
+			],
+			[
+				"key",
+				"keys_only"
+			],
+			[
+				"tran",
+				"TranslateTitle"
+			],
+			[
+				"get",
+				"get_by_id"
+			],
+			[
+				"remo",
+				"RemoveValue"
+			],
+			[
+				"data",
+				"data_property"
+			],
+			[
+				"order",
+				"order_number"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"l_",
+				"l_key"
+			],
+			[
+				"lee",
+				"leecher"
+			],
+			[
+				"bubb",
+				"bubble"
+			],
+			[
+				"bo",
+				"boRequestHandler"
+			],
+			[
+				"pers",
+				"person_key"
+			],
+			[
+				"pe",
+				"person"
+			],
+			[
+				"person",
+				"person_key"
+			],
+			[
+				"exam_",
+				"exam_rating"
+			],
+			[
+				"exam",
+				"exam"
+			],
+			[
+				"tar",
+				"targetbubbleId"
+			],
+			[
+				"targ",
+				"targetbubble"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"bubbl_k",
+				"bubble_keys_str"
+			],
+			[
+				"bub_",
+				"bubble_keys_str"
+			],
+			[
+				"subbubb",
+				"subbubbles"
+			],
+			[
+				"view",
+				"viewers"
+			],
+			[
+				"viewer",
+				"viewers"
+			],
+			[
+				"disp",
+				"displayname"
+			],
+			[
+				"sou",
+				"sourcebubble"
+			],
+			[
+				"app",
+				"applicant"
+			],
+			[
+				"vie",
+				"viewers"
+			],
+			[
+				"bub",
+				"bubble"
+			],
+			[
+				"cv_",
+				"cv_str"
+			],
+			[
+				"eur",
+				"euro_key"
+			],
+			[
+				"true",
+				"True"
+			],
+			[
+				"has",
+				"has_been_subsidized"
+			],
+			[
+				"mar",
+				"MarkEuro"
+			],
+			[
+				"bubbles",
+				"bubble_keys"
+			],
+			[
+				"tr",
+				"try	Try/Except"
+			],
+			[
+				"ex",
+				"Exception"
+			],
+			[
+				"displ",
+				"displayname"
+			],
+			[
+				"right",
+				"right_str"
+			],
+			[
+				"Bubb",
+				"Bubble"
+			],
+			[
+				"bubble_",
+				"bubble_keys"
+			],
+			[
+				"bubble",
+				"bubble_key"
+			],
+			[
+				"right_holdes",
+				"right_holders"
+			],
+			[
+				"is",
+				"x_is_deleted"
+			],
+			[
+				"subbub",
+				"subbubbles"
+			],
+			[
+				"subb",
+				"subbubbles"
+			],
+			[
+				"N",
+				"None"
+			],
+			[
+				"ut",
+				"utf-8"
+			],
+			[
+				"attr",
+				"attrgetter"
+			],
+			[
+				"times",
+				"TimeSlotList"
+			],
+			[
+				"dis",
+				"displayname"
+			],
+			[
+				"leech",
+				"leecher"
+			],
+			[
+				"co",
+				"continue"
+			],
+			[
+				"SubBubb",
+				"subbubble"
+			],
+			[
+				"propaga",
+				"propagate_rights"
+			],
+			[
+				"g",
+				"get"
+			],
+			[
+				"relate",
+				"related_bubble"
+			],
+			[
+				"righ",
+				"right_relation"
+			],
+			[
+				"bubbl",
+				"bubble_id"
+			],
+			[
+				"Getv",
+				"GetValueAsList"
+			],
+			[
+				"master",
+				"masterbubble"
+			],
+			[
+				"lo",
+				"logging"
+			],
+			[
+				"x_br_",
+				"x_br_leecher"
+			],
+			[
+				"le",
+				"leecher"
+			],
+			[
+				"add",
+				"AddLeecher"
+			],
+			[
+				"rela",
+				"relations"
+			],
+			[
+				"x_b",
+				"x_br_subbubble"
+			],
+			[
+				"x_",
+				"x_br_subbubble"
+			],
+			[
+				"f",
+				"filter"
+			],
+			[
+				"Bub",
+				"Bubble"
+			],
+			[
+				"k",
+				"key"
+			],
+			[
+				"su",
+				"subbuble"
+			],
+			[
+				"mas",
+				"masterbubble"
+			],
+			[
+				"sort",
+				"sortfield"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Snippet: New Property"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 122.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/michelek/Documents/github/Bubbledu/appengine/controllers/bubble.py",
+		"/Users/michelek/Downloads/application.xml",
+		"/Users/michelek/Dropbox/install/Adobe Flash Builder/howtostart.html",
+		"/Users/michelek/Documents/github/Bubbledu/appengine/bo.py",
+		"/Users/michelek/Documents/github/Bubbledu/appengine/templates/application/application.html",
+		"/Users/michelek/Downloads/EKA feedback/fb.csv",
+		"/Users/michelek/Desktop/Untitled.svg",
+		"/Users/michelek/Downloads/kvv.csv",
+		"/Users/michelek/Downloads/majanduskulude aruanne/kvv.csv",
+		"/Users/michelek/Downloads/foo.csv",
+		"/Users/michelek/Downloads/foo.html",
+		"/Users/michelek/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/michelek/Downloads/fb%20-%20Sheet%201.csv",
+		"/Users/michelek/Dropbox/PlainText/Currently Managed APs",
+		"/Users/michelek/Downloads/paip",
+		"/Users/michelek/Documents/github/Bubbledu/appengine/controllers/questionary.py",
+		"/Users/michelek/Documents/github/Bubbledu/appengine/database/bubble.py",
+		"/Users/michelek/Downloads/õppetoetuste pingerida.csv",
+		"/Users/michelek/Downloads/zBubbleType.csv",
+		"/Users/michelek/Downloads/zBubble.csv",
+		"/Users/michelek/Downloads/eset",
+		"/Users/michelek/Downloads/zBubbleProperty.csv",
+		"/Users/michelek/Documents/github/Bubbledu/appengine/controllers/application.py",
+		"/Users/michelek/Documents/github/Bubbledu/appengine/shell/upload.yaml",
+		"/Users/michelek/Documents/github/Bubbledu/appengine/database/zimport/zbubble.py",
+		"/Users/michelek/Documents/github/Bubbledu/appengine/controllers/zimport.py",
+		"/Users/michelek/Documents/github/Bubbledu/appengine/database/zimport/zoin.py",
+		"/Users/michelek/Dropbox/PlainText/ois_export/zimport_20120108/zBubble.csv",
+		"/Users/michelek/Downloads/HigherEducationSystem2011.txt",
+		"/Users/michelek/Documents/github/Bubbledu/appengine/translations/english.py",
+		"/Users/michelek/Documents/github/Bubbledu/appengine/translations/estonian.py",
+		"/Users/michelek/Downloads/HigherEducationSystem2011.rtf",
+		"/Users/michelek/Dropbox/PlainText/ois_export/bubble_full_20120108_1953.csv",
+		"/Users/michelek/Downloads/zCounter.csv",
+		"/Users/michelek/Dropbox/PlainText/ois_export/vastuvõtt/zBubbleType.csv",
+		"/Users/michelek/Documents/github/Bubbledu/appengine/controllers/update.py",
+		"/Users/michelek/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Users/michelek/Documents/github/Bubbledu/appengine/database/person.py",
+		"/Users/michelek/Documents/github/Bubbledu/appengine/database/general.py",
+		"/Users/michelek/Documents/github/Bubbledu/appengine/database/dictionary.py",
+		"/Users/michelek/Dropbox/PlainText/ois_export/www/voorud2.asp",
+		"/Users/michelek/Downloads/Jit/Examples/Spacetree/example1.js",
+		"/Users/michelek/Documents/github/Bubbledu/appengine/static/javascript/jquery.simplemodal.1.4.1.min.js",
+		"/Users/michelek/Documents/github/Bubbledu/appengine/controllers/bubbletype.py",
+		"/Users/michelek/Documents/github/Bubbledu/appengine/templates/bubbletype/bubbletype_spacetree.html",
+		"/Users/michelek/Downloads/Jit/Examples/Spacetree/example1.html",
+		"/Users/michelek/Documents/github/Bubbledu/appengine/static/javascript/Jit/jit.js",
+		"/Users/michelek/Documents/github/Bubbledu/appengine/static/css/Jit/base.css",
+		"/Users/michelek/Documents/github/Bubbledu/appengine/templates/bubbletype/bubbletype_rgraph.html",
+		"/Users/michelek/Documents/github/Bubbledu/appengine/templates/bubbletype/bubbletype_hypertree.html",
+		"/Users/michelek/Downloads/Jit/Examples/Hypertree/example1.html",
+		"/Users/michelek/Downloads/Jit/Examples/Hypertree/example1.js",
+		"/Users/michelek/Downloads/Jit/Examples/RGraph/example1.html",
+		"/Users/michelek/Downloads/Jit/Examples/RGraph/example1.js",
+		"/Users/michelek/Documents/github/Bubbledu/appengine/templates/main/index.html",
+		"/Users/michelek/Downloads/Jit/Examples/Spacetree/example2.html",
+		"/Users/michelek/Downloads/Jit/Examples/Spacetree/example2.js",
+		"/Users/michelek/Documents/github/Bubbledu/appengine/templates/bubbletype/bubbletype_tree.html",
+		"/Users/michelek/Documents/github/Bubbledu/appengine/app.yaml",
+		"/Users/michelek/Library/Application Support/Sublime Text 2/Packages/Default/Global.sublime-settings",
+		"/Users/michelek/Library/Application Support/Sublime Text 2/Packages/Default/Base File.sublime-settings",
+		"/Users/michelek/Library/Application Support/Sublime Text 2/Packages/User/Python.sublime-settings",
+		"/Users/michelek/Desktop/link.artun.ee.txt",
+		"/Users/michelek/Documents/github/Bubbledu/appengine/shell/upload.sh",
+		"/Users/michelek/Documents/github/Bubbledu/appengine/database/zimport/zbubbleperson.py",
+		"/Users/michelek/Downloads/Untitled.html",
+		"/Users/michelek/Documents/github/Bubbledu/appengine/controllers/bubbleType.py"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/michelek/Documents/github/Bubbledu/appengine"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"name",
+			"urllib",
+			"getattr",
+			"getatt",
+			"attrgetter",
+			"logging",
+			"bubble_properties",
+			"dev-m.bubbledu.appspot.com",
+			"relatedbubbleId",
+			"masterbubbleId",
+			"bubble.",
+			"bubble",
+			"l.",
+			"Zoin().filter",
+			"filter",
+			"404",
+			"p",
+			"debug",
+			"equivalent",
+			"lv",
+			"lk",
+			"bv",
+			"bk",
+			"grades",
+			"str(exam_rating.grade)",
+			"gb",
+			"sr",
+			"str(exam_bubble.key())",
+			"exam_bubble.key())",
+			"str(exam_bubble.key())",
+			"r(exam_bubble.key())",
+			"str(exam_bubble.key())",
+			"subbubbles",
+			"s.",
+			"s",
+			"bubble_keys",
+			"bubble",
+			"Bubble",
+			"bubble",
+			"Message2TimeSlotLeecher",
+			" - ",
+			"LY",
+			"Dok. esitamine",
+			"is_positive",
+			"getattr",
+			"masterbubble",
+			"ListGrades",
+			"Services/google.com",
+			"D 2012-03-15",
+			"euro_keys_str",
+			"has_been_subsidized",
+			"hasattr",
+			"| ",
+			" - Sisseastuja - True",
+			"|",
+			"- Sisseastuja - True",
+			"subbubbles",
+			"Will skip",
+			"Will skip Person",
+			"L, _app",
+			"keylist",
+			"right_holders",
+			"debug",
+			"get_by_id",
+			"taskqueue.add",
+			"listm",
+			"get(",
+			"BubbleRelation",
+			"http://dev.bubbledu.appspot.com/update/p2ts",
+			"reception",
+			"vestlus - http://bubbledu.artun.ee/bubble/exam",
+			"vestlus",
+			"-",
+			"http://bubbledu.artun.ee/bubble/exam",
+			"Inimesed aegade külge",
+			"http://bubbledu.artun.ee/bubble/exam",
+			"http://bubbledu.artun.ee/bubble/reception",
+			"Inimesed aegade külge",
+			"http://dev.bubbledu.appspot.com/update/p2ts/",
+			"http://dev.bubbledu.appspot.com/update/p2ts/\n",
+			".30",
+			".00",
+			"MergeLists",
+			"list",
+			"merge",
+			"mergel",
+			"leecher",
+			"leecherId",
+			"()),",
+			"buble",
+			"subbuble",
+			"class CopyBubble(boRequestHandler): # Assign Bubble as SubBubble to another Bubble\n    def get(self, subbubbleId, masterbubbleId):\n        subbubble = Bubble().get_by_id(int(subbubbleId))\n        masterbubble = Bubble().get_by_id(int(masterbubbleId))\n\n        masterbubble.x_br_subbuble = MergeLists(masterbubble.x_br_subbuble, subbubble.key())\n        masterbubble.put()\n\n        # Create BubbleRelation's\n        br = db.Query(BubbleRelation).filter('bubble', masterbubble.key()).filter('related_bubble', subbubble.key()).filter('type', 'subbuble').get()\n        if not br:\n            br = BubbleRelation()\n            br.bubble = masterbubble.key()\n            br.related_bubble = subbuble.key()\n            br.type = 'subbuble'\n            br.put()\n        else:\n            if br.x_is_deleted != False:\n                br.x_is_deleted = False\n                br.put()\n\n\n",
+			"Connected",
+			"sortfield",
+			"x_br_viewer",
+			"integreeritud õpe",
+			"feedback",
+			"error_code",
+			" ",
+			"omandatud",
+			"välisriigis",
+			"relation",
+			"img",
+			"6916",
+			"{",
+			"\n",
+			"key_name",
+			"filter('type IN",
+			"Bubble.",
+			"seeder",
+			"datetim",
+			"filter",
+			"seede",
+			"seede	",
+			" ",
+			"p",
+			"old_value",
+			"setTimeout",
+			"morph",
+			"animate",
+			"animatecc",
+			"slideToggle",
+			"rawdata",
+			"simple",
+			"'",
+			"[{ 'name'",
+			"[{",
+			"'name': "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"\"",
+			",",
+			"	",
+			"  ",
+			"	",
+			"\\\"",
+			"'",
+			"name",
+			"'",
+			"v",
+			"f",
+			"'}\n, {'",
+			"'}\n'}\n, {'",
+			"'}\n, u'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/michelek/Dropbox/PlainText/ois_export/www/ois.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true
+}
