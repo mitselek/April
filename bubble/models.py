@@ -75,15 +75,17 @@ class Bubble(models.Model):
         return self.get_related_to(RELATIONSHIP_PREREQUISITE)
 
 
-RELATIONSHIP_SUBBUBBLE        = 1
-RELATIONSHIP_NEXTINLINE       = 2
-RELATIONSHIP_PREREQUISITE     = 3
-RELATIONSHIP_RELATED_DOCUMENT = 4
+RELATIONSHIP_SUBBUBBLE          = 1
+RELATIONSHIP_NEXTINLINE         = 2
+RELATIONSHIP_PREREQUISITE       = 3
+RELATIONSHIP_RELATED_DOCUMENT   = 4
+RELATIONSHIP_PASSED             = 5
 RELATIONSHIPS = (
     (RELATIONSHIP_SUBBUBBLE,        'Subbubble'),
     (RELATIONSHIP_NEXTINLINE,       'Next in line'),
     (RELATIONSHIP_PREREQUISITE,     'Prerequisite'),
     (RELATIONSHIP_RELATED_DOCUMENT, 'Related document'),
+    (RELATIONSHIP_PASSED,           'Passed'), # All relatees have positive grade at bubble
 )
 
 
@@ -110,5 +112,6 @@ class BubbleProperty(models.Model):
     bubble                      = models.ForeignKey(Bubble)
     value_string                = models.CharField(max_length = 450)
     value_integer               = models.IntegerField()
+    value_file                  = models.FileField(upload_to = 'bubble_files')
     language                    = models.CharField(max_length = 3)
     data_type                   = models.CharField(max_length = 450)
