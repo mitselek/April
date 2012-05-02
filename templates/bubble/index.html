@@ -1,0 +1,9 @@
+{% if bubbledefinitions %}
+    <ul>
+    {% for bd in bubbledefinitions %}
+        <li><a href="/bubbledefinition/{{ bd.id }}/">{{ bd.label }}</a></li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No bubbledefinitions are available.</p>
+{% endif %}

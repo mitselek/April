@@ -1,14 +1,20 @@
 from bubble.models import *
 
+from django.shortcuts import render_to_response, get_object_or_404
 from django.http import HttpResponse
 
-def index(request):
-    bubbletypes = BubbleDefinition.objects.all()[:500]
-    output = '<br/>'.join(['<a href="bubbletype/' + str(bt.id) + '">' + bt.label + '</a>' for bt in bubbletypes])
-    return HttpResponse(output)
+# def index(request):
+#     bubbledefinitions = BubbleDefinition.objects.all()[:500]
+#     output = '<br/>'.join(['<a href="bubbledefinition/' + str(bt.id) + '">' + bt.label + '</a>' for bt in bubbledefinitions])
+#     return HttpResponse(output)
 
-def bubbletype(request, bubbletype_id):
-    bubbletype = BubbleDefinition.objects.get(pk = bubbletype_id)
-    output = '<a href="bubbletype/' + str(bubbletype.id) + '">' + bubbletype.label + '</a>'
-    return HttpResponse(output)
+def bubbledefinition(request, bubbledefinition_id):
+    # bubbledefinition = BubbleDefinition.objects.get(pk = bubbledefinition_id)
+    bubbledefinition = get_object_or_404(BubbleDefinition, pk = bubbledefinition_id)
+    bubbles = Bubble.objects.all()[:500]
+
+    return render_to_response('bubble/bubbledefinition.html', {
+        'bubbledefinition': bubbledefinition,
+        'bubbles': bubbles,
+        })
 

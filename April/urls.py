@@ -1,13 +1,21 @@
 from django.conf.urls import patterns, include, url
+from django.views.generic import DetailView, ListView
+from bubble.models import BubbleDefinition
 
 # Uncomment the next two lines to enable the admin:
 from django.contrib import admin
 admin.autodiscover()
 
 urlpatterns = patterns('',
-    # Examples:
-    url(r'^$', 'April.views.index', name='home'),
-    url(r'^bubbletype/(?P<bubbletype_id>\d+)/$', 'April.views.bubbletype'),
+    # url(r'^$','April.views.index', name='home'),
+    url(r'^$',
+        ListView.as_view(
+            queryset = BubbleDefinition.objects.order_by('label')[:500],
+            context_object_name='bubbledefinitions',
+            template_name='bubble/index.html')),
+
+    url(r'^bubbledefinition/(?P<bubbledefinition_id>\d+)/$', 'April.views.bubbledefinition'),
+
     # url(r'^April/', include('April.foo.urls')),
 
     # url(r'^polls/$', 'polls.views.index'),
